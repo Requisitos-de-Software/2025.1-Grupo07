@@ -1,6 +1,6 @@
 [data-md-color-scheme="claro"] {
-    --md-primary-fg-color:        rgb(55, 55, 240) !important;
-    --md-accent-fg-color:rgb(55, 55, 240);
+    --md-primary-fg-color:        ##066AF6 !important;
+    --md-accent-fg-color:##066AF6;
     --md-typeset-a-color: #2948C4
 }
 
